@@ -22,6 +22,10 @@ Afterwards enter the following command to build and install slock
 
     make clean install
 
+Patches
+-------
+
+- mesage: https://tools.suckless.org/slock/patches/message/
 
 Running slock
 -------------
